@@ -7,7 +7,7 @@ Unix System Administrator / DevOps
 # PERSONAL INFORMATION:
 * Sex: Male
 * Citizenship: Ukrainian
-* Date of Birth: XX.XX.198X
+* Date of Birth: 08.08.1984
 # INTENTIONS:
 * Enhance my DevOps skills.
 * Use my skills for designing/refactoring/building/deploying/supporting high-load web applications.
