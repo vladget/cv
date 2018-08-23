@@ -5,8 +5,8 @@ Unix System Administrator / DevOps
 # PERMANENT ADDRESS
 * Ukraine, Dnipro
 # PERSONAL INFORMATION:
-* Sex: Male
 * Citizenship: Ukrainian
+* English: Fluent
 # INTENTIONS:
 * Enhance my DevOps skills.
 * Use my skills for designing/refactoring/building/deploying/supporting high-load web applications.
