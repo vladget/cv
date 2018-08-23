@@ -1,7 +1,7 @@
 Vladimir Getmanshchuk
 =====================
 # POSITION:
-Unix System Administrator / DevOps 
+Unix System Administrator / DevOps / SRE
 # PERMANENT ADDRESS
 * Ukraine, Dnipro
 # PERSONAL INFORMATION:
