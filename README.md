@@ -69,8 +69,8 @@ Rackspace, Limelight Networks, Google, Amazon AWS, Scribe, RightScale, Hetzner, 
 Cisco, IBM, 3Com, Dell, HP, 3Ware, Linksys, D-Link, ZyXel, Mikrotik, SUN, etc..
 # EMPLOYMENT HISTORY:
 #### Yallaclassifieds, OU: _Apr, 2016 – present, Estonia/Ukraine_
-##### Position: Unix System Administrator / DevOps
-##### Sites: lalafo.az, lalafo.kz, lalafo.rs, lalafo.gr, lalafo.fi...
+##### Position: Site Reliability Engineer / DevOps
+##### Sites: lalafo.com, lalafo.az, lalafo.kz, lalafo.rs, lalafo.gr, lalafo.fi...
 ##### Responsibilities:
 * Jenkins, GitLab CI/CD
 * Migration all project from bare metal to kubernetes
