@@ -8,7 +8,7 @@ Unix System Administrator / DevOps / SRE
 * Citizenship: Ukrainian
 * English: Fluent
 # INTENTIONS:
-* Enhance my DevOps skills.
+* Enhance my DevOps / SRE skills.
 * Use my skills for designing/refactoring/building/deploying/supporting high-load web applications.
 * Use my knowledge, experience and skills to perform all functions
 system administrator for UNIX-like systems in heterogeneous environments.
@@ -56,9 +56,9 @@ tar, rsync, scp, rdump, dump, restore, mysqldump, XtraBackup,innobackupex, amand
 ### Network:
 isc-dhcpd, IPFW, ipf, ALTQ, iptables, tcpdump, ifconfig, netstat, sockstat, openssh, telnet, traceroute, trafshow, trafd, squid, iftop, snmp, etc…
 ### DevOps:
-Gitlab, Jenkins, Ansible, Terraform (just touched)
+Gitlab, Jenkins, Ansible, Terraform (AWS route53 only), dapp/werf
 ### Container and container orchestration:
-Docker, Docker Swarm (just touched), Kubernetes, kops
+Docker, Docker Swarm (just touched), Kubernetes, kops, helm
 ### CDN vendors:
 Akamai, LLNW, Cloudflare, Cloudfront, Fastly
 ## SEO:
@@ -73,9 +73,11 @@ Cisco, IBM, 3Com, Dell, HP, 3Ware, Linksys, D-Link, ZyXel, Mikrotik, SUN, etc..
 ##### Sites: lalafo.com, lalafo.az, lalafo.kz, lalafo.rs, lalafo.gr, lalafo.fi...
 ##### Responsibilities:
 * Jenkins, GitLab CI/CD
-* Migration all project from bare metal to kubernetes
+* Migration all application from bare metal to kubernetes
 * Dockerization of all microservices
-* SQL performance tuning
+* SQL performance supporting
+* DevOps / SRE Practics
+
 #### XOtel, SIA: _Dec, 2012 – present, Ukraine_
 ##### Position: Unix System Administrator
 ##### Responsibilities:
@@ -147,3 +149,4 @@ Solutions for automation in cloud computing and using 3rd part solutions like sc
 * Dnepropetrovsk National University: _Sep, 2005 – December, 2006, UA_
 Specialty: Applied Mathematics
 * SJSU (San Jose, CA, USA, SAL Program): _August, 2001 – December, 2001_
+* SRE Cert: https://www.coursera.org/account/accomplishments/certificate/3GYZEP8BAQXL
