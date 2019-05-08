@@ -78,7 +78,7 @@ Cisco, IBM, 3Com, Dell, HP, 3Ware, Linksys, D-Link, ZyXel, Mikrotik, SUN, etc..
 * SQL performance supporting
 * DevOps / SRE Practics
 
-#### XOtel, SIA: _Dec, 2012 – present, Ukraine_
+#### XOtel, SIA: _Dec, 2012 – Apr, 2016, Ukraine_
 ##### Position: Unix System Administrator
 ##### Responsibilities:
 * Building open-source based SIP system
@@ -146,7 +146,7 @@ Solutions for automation in cloud computing and using 3rd part solutions like sc
 * Hardware: PC, modems, Smart Switch, Hub, and Digi Multi-Ports;
 * Software: samba, apache, Secure CRT, PuTTY, FAR.
 # EDUCATION:
+* SRE Cert: https://www.coursera.org/account/accomplishments/certificate/3GYZEP8BAQXL
 * Dnepropetrovsk National University: _Sep, 2005 – December, 2006, UA_
 Specialty: Applied Mathematics
 * SJSU (San Jose, CA, USA, SAL Program): _August, 2001 – December, 2001_
-* SRE Cert: https://www.coursera.org/account/accomplishments/certificate/3GYZEP8BAQXL
