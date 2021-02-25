@@ -11,7 +11,7 @@ Unix System Administrator / DevOps / SRE
 * Enhance my DevOps / SRE skills.
 * Use my skills for designing/refactoring/building/deploying/supporting high-load web applications.
 * Use my knowledge, experience and skills to perform all functions
-system administrator for UNIX-like systems in heterogeneous environments.
+of system administrator for UNIX-like systems in heterogeneous environments.
 * Use my experience in database administration and database design
 * Be the part of exciting web project, which will important and useful for Internet society.
 # SUMMARY EXPERIENCE:
@@ -32,7 +32,7 @@ Internet, Ethernet, ATM, STM, xDSL, ISDN, WiFi, VPN
 ## Hardware:
 CPU, Motherboard, FDD, HDD, CD, CDRW, Laptops, Tape Drives, KVM, Modem, Multi-port, Hub, Switch, Smart Switches (L2, L3 like Cisco Catalysts), Routers, Firewalls (Cisco PIX, ASA), Voip gates, GSM gates, WiFi, Fiber Channel, WDM
 ## Programming:
-Shell, LUA, PHP, Python(reading only), C/C++(reading only), GoLang(reading only)
+Shell, LUA, PHP, GoLang, Python, C/C++(reading only)
 ## Software:
 ### Web:
 Apache (advanced), NGINX(advanced), varnish, haproxy, minihttpd, lighttpd, php, mod_php, spawn-php, fastcgi, php-fpm, mod_perl, http_perf, mod_evasive, caching, proxying, etc...
@@ -42,11 +42,11 @@ Iptables, snort, ossec, ipfw, pf, nmap, logwatch, rkhunter, crack, tcpdump, sudo
 #### SQL:
 MySQL/Percona/Percona Xtradb Galera cluster, PostgreSQL, MS SQL Server, SQLite, PgBouncer, plpgsql
 #### noSQL:
-HandlerSocket(MySQL plugin), Membase, memcached, Couchbase, Redis
+MongoDB(Sharded Cluster), Redis(Cluster and Sentinel), memcached
 #### Tuning tools:
 explain, maatkit(Percona Toolkit), mysqltuner, pg_stat_statements
 ### Monitoring:
-SNMP, Nagios, Zabbix 2+/3+, statsd, Cacti, Pingdom, MRTG, rrdtools, CloudWatch, ELK (Elasticsearch, Logstash/Filebeat, Kibana), Heapster, Grafana+InfluxDB, New Relic
+Prometheus and ecosystem: blackbox/alertmanager/, SNMP, Nagios, Zabbix 2+/3+, statsd, Cacti, Pingdom, StatusCake, MRTG, rrdtools, CloudWatch, ELK (Elasticsearch, Logstash/Filebeat, Kibana), Heapster, Grafana+InfluxDB, New Relic
 ### Email:
 Sendmail, Exim, Postfix, MailMan, Courier, Cyrus, Email DNS, SPF, Google Apps service, dkimproxy, DomainKeys,  DKIM
 ### Devel:
@@ -60,15 +60,25 @@ Gitlab, Jenkins, Ansible, Terraform (AWS route53 only), dapp/werf
 ### Container and container orchestration:
 Docker, Docker Swarm (just touched), Kubernetes, kops, helm
 ### CDN vendors:
-Akamai, LLNW, Cloudflare, Cloudfront, Fastly
+Akamai, LLNW, Cloudflare, AWS Cloudfront, Fastly
 ## SEO:
 Google Analytics, Google webmasters Tools, Yahoo Site Explorer, Yahoo mRSS, Google Video sitemap, RSS 2.0, Truveo (AOL), webmaster Live.com, sitemap generators, sitemaps, robots.txt, Alexa, Google insights.
 ## Support Services:
 Rackspace, Limelight Networks, Google, Amazon AWS, Scribe, RightScale, Hetzner, Online.net, etc
 ## Brands:
-Cisco, IBM, 3Com, Dell, HP, 3Ware, Linksys, D-Link, ZyXel, Mikrotik, SUN, etc..
+Cisco, UniFi, IBM, 3Com, Dell, HP, 3Ware, Linksys, D-Link, ZyXel, Mikrotik, SUN, etc..
 # EMPLOYMENT HISTORY:
-#### Yallaclassifieds, OU: _Apr, 2016 – present, Estonia/Ukraine_
+#### Smart Project, GmbH: August, 2019 – present, Switzerland/Ukraine_
+##### Position: DevOps Engineer / CTO
+##### Responsibilities/Achievements:
+* Managing team of 1 DevOps engineer and 2 system administrators
+* Supporting more then 100+ physical servers and 20+ virtual servers by Ansible, writed more than 40 Ansible roles
+* Managing HA clusters: Mongo Sharded Cluster/Redis Cluster/Redis Sentinel + HAProxy
+* Supporting company AWS infrastructure with Terraform: Route53 (GEO distributed multi-CDN setup with failover), ACM, Cloudfront, Clowdwatch
+* Implemented Prometheus monitoring system and incedent management system (OpsGenie)
+* Supporting on premises Atlassian servies: JIRA/Confluence/Bitbucket/Bamboo
+
+#### Yallaclassifieds, OU: _Apr, 2016 – August, 2019, Estonia/Ukraine_
 ##### Position: Site Reliability Engineer / DevOps
 ##### Sites: lalafo.com, lalafo.az, lalafo.kz, lalafo.rs, lalafo.gr, lalafo.fi...
 ##### Responsibilities:
@@ -77,7 +87,6 @@ Cisco, IBM, 3Com, Dell, HP, 3Ware, Linksys, D-Link, ZyXel, Mikrotik, SUN, etc..
 * Dockerization of all microservices
 * SQL performance supporting
 * DevOps / SRE Practics
-
 #### XOtel, SIA: _Dec, 2012 – Apr, 2016, Ukraine_
 ##### Position: Unix System Administrator
 ##### Responsibilities:
