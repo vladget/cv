@@ -63,7 +63,16 @@ Akamai, LLNW, Cloudflare, AWS Cloudfront, Fastly
 Hetzner, Rackspace, Online.net
 
 # EMPLOYMENT HISTORY:
-#### Smart Project, GmbH: August, 2019 – present, Switzerland/Ukraine_
+#### SpotOn Transact, LLC: December, 2021 – present, USA/Ukraine_
+##### Position: DevOps/Cloud Engineer
+##### Responsibilities/Achievements:
+* Managing and supporting infrastructure with more then 100+ AWS terraform components
+* Infrastructure management with CloudPosse Atmos and SpaceLift
+* Implementing and supporting Teleport clusters(Root and leaf) in multiply AWS account to provide access to K8s/RDS/Mongo Atlass
+* Okta integration with Teleport
+* Building CI/CD piplines in GitHub actions, using custom actions and workflows
+
+#### Smart Project, GmbH: August, 2019 – December, 2021
 ##### Position: Lead DevOps Engineer / CTO
 ##### Responsibilities/Achievements:
 * Managing team of 1 DevOps engineer and 2 system administrators
